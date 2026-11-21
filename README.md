@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![Rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/Omar08263/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![Reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/Omar08263/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+
 # gta6-trophy-forecast
 
 Forecast, for every trophy of Grand Theft Auto VI on PlayStation 5, its earn
